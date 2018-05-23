@@ -1,0 +1,4 @@
+this is the file that should be encrypted.
+
+
+Lets hope this works.
